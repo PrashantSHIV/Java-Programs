@@ -1,0 +1,16 @@
+Control Statement is the Statement that control the flow of execution of Program
+
+/* Types of Control Statement */\
+
+a. Decision Making Statement -> that decide which block of code will be execute
+   if-else 
+   switch
+
+b. Iteration Statement -> How number of times a block of code will be executed
+   for loop
+   while loop
+   do-while loop
+
+c. Jump Statement -> transfer the execution control from one point to another in the program
+   break -> terminate the loop and give the control to next instruction
+   continue -> skip the rest iteration and go to next iteration
